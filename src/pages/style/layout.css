@@ -1,0 +1,20 @@
+.layout-container {
+    background-color: #222222;
+    color: white;
+}
+.nav-container {
+    height: 5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.nav-container ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+.link {
+    color: white;
+    text-decoration: none;
+}
